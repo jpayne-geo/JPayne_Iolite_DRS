@@ -2,7 +2,7 @@
 #/ Name: 3D_Trace_Elements_Interf
 #/ Authors: Joe Petrus and Bence Paul with modifications by JP and JF
 #/ Description: Trace elements with multiple reference materials and Halogen Interference Correction
-#/ References: None
+#/ References: Flahaut et al. (submitted)
 #/ Version: 1.2
 #/ Contact: support@iolite-software.com
 
