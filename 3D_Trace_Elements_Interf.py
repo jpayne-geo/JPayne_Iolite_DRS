@@ -1,7 +1,7 @@
 #/ Type: DRS
 #/ Name: 3D_Trace_Elements_Interf
-#/ Authors: Joe Petrus and Bence Paul with modifications by JP and JF
-#/ Description: Trace elements with multiple reference materials and Halogen Interference Correction
+#/ Authors: Joe Petrus and Bence Paul with modifications by Justin Payne and Justine Flahaut
+#/ Description: Trace elements with multiple reference materials and Doubly Charged REE Interference Correction on Br
 #/ References: Flahaut et al. (submitted)
 #/ Version: 1.2
 #/ Contact: support@iolite-software.com
